@@ -17,8 +17,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project folder.
-3. Locate the `index.html` file.
-4. Open `index.html` in a web browser to view and interact with the to-do list application.
+3. Locate the `Home.html` file.
+4. Open `Home.html` in a web browser to view and interact with the to-do list application.
 
 ## Usage
 
